@@ -2,21 +2,21 @@
   <img src="./assets/readme/hero.svg" width="100%" alt="Greikol — software útil para colegios y negocios">
 </p>
 
-### Visión general
+## Visión general
 
 Soy Greikol, de Quepos. Hago sistemas pequeños que la gente usa de verdad. Me gustan las soluciones ágiles, sin enredos y con interfaces limpias que cualquiera entiende sin manual. Prefiero algo que funcione rápido y resuelva un problema concreto de la comunidad o un negocio local, antes que una idea grande que nunca sale.
 
 Si ayuda en el día a día y no pide cosas raras para usarse, para mí ya vale.
 
-### Proyectos
+## Proyectos
 
-- **Entradas CTPM** — Venta y validación para el Gran Baile del CTP Matapalo. Resuelve filas, pagos y control en puerta con QR de un solo uso y plano real de 12 mesas. · `Flask` `Supabase` `Vercel` `Pillow` `qrcode` · [demo](https://entradas-ctpm.vercel.app) · [código](https://github.com/greikol4321-hub/entradas-ctpm)
+- **Entradas CTPM** — Venta y validación para el Gran Baile del CTP Matapalo. Resuelve filas, pagos y control en puerta con QR de un solo uso y plano real de 12 mesas. · `Flask`, `Supabase`, `Vercel`, `Pillow`, `qrcode` · **[demo](https://entradas-ctpm.vercel.app)** · **[código](https://github.com/greikol4321-hub/entradas-ctpm)**
 
-- **Jungle Wildlife Tours** — Web para guías de la selva. Cambia una plantilla genérica por fotos reales, reservas sin vueltas y panel para el equipo. · `Astro` `Next.js` `Tailwind` `TypeScript` `Supabase` · [demo](https://jungle-wildlife-tours.vercel.app) · [código](https://github.com/greikol4321-hub/jungle-wildlife-tours)
+- **Jungle Wildlife Tours** — Web para guías de la selva. Cambia una plantilla genérica por fotos reales, reservas sin vueltas y panel para el equipo. · `Astro`, `Next.js`, `Tailwind`, `TypeScript`, `Supabase` · **[demo](https://jungle-wildlife-tours.vercel.app)** · **[código](https://github.com/greikol4321-hub/jungle-wildlife-tours)**
 
-- **Notificaciones CTP Quepos** — Avisos del colegio fuera del caos de WhatsApp. Publica la dirección, le llega a padres y estudiantes y queda registro. · `TypeScript` `Flask` · [código](https://github.com/greikol4321-hub/Notificaciones-CTP-De-Quepos)
+- **Notificaciones CTP Quepos** — Avisos del colegio fuera del caos de WhatsApp. Publica la dirección, le llega a padres y estudiantes y queda registro. · `TypeScript`, `Flask` · **[código](https://github.com/greikol4321-hub/Notificaciones-CTP-De-Quepos)**
 
-### Stack tecnológico
+## Stack tecnológico
 
 `Flask` · `Supabase (Postgres + Storage)` · `Vercel` · `Pillow` · `qrcode` · `Astro` · `Next.js` · `Tailwind` · `TypeScript` · `Python` · `psycopg` · `pydantic`
 
