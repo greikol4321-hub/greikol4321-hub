@@ -14,7 +14,7 @@ Si ayuda en el día a día y no pide cosas raras para usarse, para mí ya vale.
 
 - **Jungle Wildlife Tours** — Web para guías de la selva. Cambia una plantilla genérica por fotos reales, reservas sin vueltas y panel para el equipo. · `Astro`, `Next.js`, `Tailwind`, `TypeScript`, `Supabase` · **[demo](https://jungle-wildlife-tours.vercel.app)** · **[código](https://github.com/greikol4321-hub/jungle-wildlife-tours)**
 
-- **Taquilla** — Sistema de entradas QR por lugar. Vendedor genera, portero escanea y admin ve todo, cada uno en su lugar. · `Flask`, `Supabase`, `Vercel` · **[demo](https://taquilla-quepos.vercel.app)** · **[código](https://github.com/greikol4321-hub/entradas-qr)**
+- **Taquilla** — Sistema de entradas QR por lugar. Vendedor genera, portero escanea y admin ve todo, cada uno en su lugar. · `Flask`, `Supabase`, `Vercel` · **[demo](https://taquilla-quepos.vercel.app)** · **[código](https://github.com/greikol4321-hub/taquilla)**
 
 ## Stack tecnológico
 
