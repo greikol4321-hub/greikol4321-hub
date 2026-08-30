@@ -10,9 +10,11 @@ Si ayuda en el día a día y no pide cosas raras para usarse, para mí ya vale.
 
 ## Proyectos
 
-- **Entradas CTPM** — Venta y validación para el Gran Baile del CTP Matapalo. Resuelve filas, pagos y control en puerta con QR de un solo uso y plano real de 12 mesas. · `Flask`, `Supabase`, `Vercel`, `Pillow`, `qrcode` · **[demo](https://entradas-ctpm.vercel.app)** · **[código](https://github.com/greikol4321-hub/entradas-ctpm)**
+- **Entradas CTPM** — Venta para el Gran Baile del CTP Matapalo. Resuelve filas y pagos con SINPE, comprobante y QR de un solo uso con plano real de 12 mesas. · `Flask`, `Supabase`, `Vercel`, `Pillow`, `qrcode` · **[demo](https://entradas-ctpm.vercel.app)** · **[código](https://github.com/greikol4321-hub/entradas-ctpm)**
 
 - **Jungle Wildlife Tours** — Web para guías de la selva. Cambia una plantilla genérica por fotos reales, reservas sin vueltas y panel para el equipo. · `Astro`, `Next.js`, `Tailwind`, `TypeScript`, `Supabase` · **[demo](https://jungle-wildlife-tours.vercel.app)** · **[código](https://github.com/greikol4321-hub/jungle-wildlife-tours)**
+
+- **Taquilla** — Validación QR en puerta. No se confunde con la venta. Escanea con la cámara, suena chime, prende linterna de noche y marca la entrada como usada. · `html5-qrcode`, `Flask`, `Supabase` · **[demo](https://entradas-ctpm.vercel.app/scanner)** · **[código](https://github.com/greikol4321-hub/entradas-ctpm)**
 
 ## Stack tecnológico
 
