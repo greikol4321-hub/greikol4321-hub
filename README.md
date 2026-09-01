@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=4" width="100%" alt="Greikol — software útil para colegios y negocios">
+  <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Greikol — software útil para colegios y negocios">
 </p>
 
 ## Visión general
